@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on Commercial Online Website UI . 
 - 🌱 I’m currently learning NodeJs , MongoDB.
-- 👯 I’m looking to collaborate on Youtube and plan will be in act by the end of July,2022.
-- 📫 How to reach me: 
+-- 📫 How to reach me: 
       website - https://akshaychavhan.netlify.app/projects
       LinkedIn - 
 - 😄 Pronouns: He
